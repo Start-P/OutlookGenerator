@@ -1,1 +1,3 @@
 # OutlookGenerator
+
+Readable rewrite
